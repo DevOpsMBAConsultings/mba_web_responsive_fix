@@ -1,7 +1,7 @@
 {
     "name": "MBA - Web Responsive Fix (URL Sync)",
     "summary": "Sincroniza la URL del navegador al abrir y cerrar el menú de aplicaciones de web_responsive",
-    "version": "19.0.1.0.0",
+    "version": "18.0.1.0.0",
     "category": "Extra Tools",
     "author": "MBA Consultings",
     "license": "LGPL-3",
